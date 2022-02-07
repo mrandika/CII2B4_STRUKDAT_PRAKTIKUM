@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W6/DLL_First_Last.cpp
+iostream
+-
+DLL_First_Last.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W6/DLL_First_Last.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W6/DLL_First_Last.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W6/main.cpp
+iostream
+-
+DLL_First_Last.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W6/DLL_First_Last.h
+

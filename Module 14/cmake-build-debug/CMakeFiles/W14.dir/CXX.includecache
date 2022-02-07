@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W14/main.cpp
+iostream
+-
+tree/tree.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W14/tree/tree.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W14/tree/tree.h
+

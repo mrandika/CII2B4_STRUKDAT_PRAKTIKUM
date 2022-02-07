@@ -1,0 +1,3 @@
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W13/cmake-build-debug/CMakeFiles/W13.dir

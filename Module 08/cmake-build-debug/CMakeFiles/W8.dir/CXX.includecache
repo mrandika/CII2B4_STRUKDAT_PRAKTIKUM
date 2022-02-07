@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W8/SLL_Circular.cpp
+iostream
+-
+SLL_Circular.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W8/SLL_Circular.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W8/SLL_Circular.h
+iostream
+-
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W8/main.cpp
+iostream
+-
+SLL_Circular.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W8/SLL_Circular.h
+

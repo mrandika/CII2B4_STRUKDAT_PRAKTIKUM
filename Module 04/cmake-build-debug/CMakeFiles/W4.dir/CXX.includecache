@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W4/main.cpp
+iostream
+-
+mylist.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W4/mylist.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W4/mylist.h
+iostream
+-
+

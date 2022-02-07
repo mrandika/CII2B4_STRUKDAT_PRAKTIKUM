@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W2/header.h
+iostream
+-
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W2/main.cpp
+iostream
+-
+iomanip
+-
+header.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W2/header.h
+

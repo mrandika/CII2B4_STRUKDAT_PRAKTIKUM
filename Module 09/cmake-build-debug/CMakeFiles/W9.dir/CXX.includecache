@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/main.cpp
+iostream
+-
+stack.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/stack.h
+queue.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/queue.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/queue.cpp
+iostream
+-
+queue.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/queue.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/queue.h
+iostream
+-
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/stack.cpp
+iostream
+-
+stack.h
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/stack.h
+
+/Users/andika/Desktop/Kuliah/Struktur Data/Praktikum/W9/stack.h
+
